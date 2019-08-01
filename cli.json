@@ -11,8 +11,8 @@
   "as": {
     "mac": "https://dl.google.com/dl/android/studio/install/3.4.2.0/android-studio-ide-183.5692245-mac.dmg",
     "win": {
-      "32": "",
-      "64": ""
+      "32": "https://dl.google.com/dl/android/studio/ide-zips/3.4.1.0/android-studio-ide-183.5522156-windows32.zip",
+      "64": "https://dl.google.com/dl/android/studio/install/3.4.1.0/android-studio-ide-183.5522156-windows.exe"
     }
   },
   "xcode":"https://apps.apple.com/cn/app/xcode/id497799835?mt=12"
